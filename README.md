@@ -12,7 +12,7 @@
 
 <!-- BADGES ROW -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1A1A2E?style=for-the-badge&logoColor=C9A84C)](https://antoine-mben.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-mben)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngwem-mben-186240317)
 [![Email](https://img.shields.io/badge/Email-C9A84C?style=for-the-badge&logo=gmail&logoColor=1A1A2E)](mailto:ngwemantoine@gmail.com)
 [![Cameroon](https://img.shields.io/badge/📍_Yaoundé,_Cameroon-16213E?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Yaoundé,Cameroon)
 
@@ -265,4 +265,4 @@ const antoine = {
 |---|---|
 | AntoineMben12 |
 | mailto:ngwemantoine@gmail.com |
-| https://linkedin.com/in/antoine-mben |
+| https://www.linkedin.com/in/ngwem-mben-186240317 |
