@@ -197,8 +197,8 @@ const antoine = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&bg_color=1A1A2E&title_color=C9A84C&text_color=FFFFFF&icon_color=C9A84C&border_color=C9A84C&rank_icon=github&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&bg_color=1A1A2E&title_color=C9A84C&text_color=FFFFFF&border_color=C9A84C&hide_border=false&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoinemben12&show_icons=true&theme=transparent&bg_color=1A1A2E&title_color=C9A84C&text_color=FFFFFF&icon_color=C9A84C&border_color=C9A84C&rank_icon=github&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinemben12&layout=compact&theme=transparent&bg_color=1A1A2E&title_color=C9A84C&text_color=FFFFFF&border_color=C9A84C&hide_border=false&langs_count=8"/>
 
 </div>
 
@@ -217,9 +217,6 @@ const antoine = {
 |---|---|
 | 🏫 **Institution** | IAI Cameroun — Paul Biya Centre of Excellence, Yaoundé |
 | 🎓 **Level** | Level II Software Engineering |
-| 🔬 **Academic Supervisor** | Mme Onguene Vanessa |
-| 💼 **Professional Supervisor** | Eric Bitom (Consultant) |
-| 🏢 **Internship Host** | SHADERL Tech Startup (Founded by Derick Asane) |
 | 📚 **Methodology** | Agile/Scrum · UML (14 diagram types) · MERISE |
 
 ---
